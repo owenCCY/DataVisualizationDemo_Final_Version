@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <string-array name="sensors">
+        <item>sensor1</item>
+        <item>sensor2</item>
+        <item>sensor3</item>
+    </string-array>
+
+    <string-array name="IDs">
+        <item>ID:001</item>
+        <item>ID:002</item>
+        <item>ID:003</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>airSensor</item>
+        <item>airSensor</item>
+        <item>temperatureSensor</item>
+    </string-array>
+</resources>
